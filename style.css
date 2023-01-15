@@ -1,0 +1,33 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+}
+
+#increment-btn {
+    background-color: lime;
+}
+
+#decrement-btn {
+    background-color: indianred;
+}
+
+#save-btn {
+    background-color: forestgreen;
+}
+
+#count {
+    font-weight: bold;
+    font-size: 48pt;
+    margin: 0;
+
+}
